@@ -1,12 +1,15 @@
 
-# MultiAct Dataset
+# Hierarchical Activity Recognition and Captioning from Long-Form Audio
 
 <img src="https://github.com/PennyZhang9/MultiAct/blob/main/img/main.png">
 
-## Dataset Details
+## MultiAct Dataset Details
 
 
+## Baselines
 
-## Citing
-When using the dataset, kindly reference:
 
+## Acknowledges
+
+
+## Citation
