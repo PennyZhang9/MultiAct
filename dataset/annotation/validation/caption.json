@@ -1,0 +1,251 @@
+{
+    "P35_104_0": {
+        "video_id": "P35_104",
+        "act_class": "Cleanup",
+        "act_class_id": 2,
+        "start_time": 7.9,
+        "end_time": 369.6,
+        "sub_seq": [
+            "OpenCloseStorage",
+            "WashScrub",
+            "WipeTidy"
+        ],
+        "summary_zh": "清洁阶段期间，包含进入厨房、打开水源、放入餐具、进行长时间的清洗、关闭水源，并伴随储物空间的开合与表面整理等操作。",
+        "summary_en": "During the cleanup phase, activities include entering the kitchen, turning on the tap, placing dishes, extended washing, shutting off the water, and interacting with storage units and surface tidying.",
+        "caption_zh": "在清理阶段，有人走进房间，开始整理。水龙头被打开，随后是餐具放入水槽的碰撞声。接着是一段持续的洗涤过程，水声不断，盘碟和锅具被反复擦洗与冲洗。最后水被关掉，人在厨房中走动，打开并关闭垃圾桶等储物区域，将环境收拾整洁。",
+        "caption_en": "During the cleanup phase, someone enters the room and begins tidying up. The faucet is turned on, followed by the clatter of dishes placed into the sink. A long washing process ensues, with water running continuously as dishes and cookware are scrubbed and rinsed. Finally, the water is turned off, and storage areas like trash bins are opened and closed as the space is put back in order. "
+    },
+    "P35_104_1": {
+        "video_id": "P35_104",
+        "act_class": "Prep",
+        "act_class_id": 0,
+        "start_time": 369.7,
+        "end_time": 502.1,
+        "sub_seq": [
+            "PreheatIgnite",
+            "UnwrapPackage",
+            "OpenCloseStorage",
+            "PlateFood",
+            "OpenCloseStorage"
+        ],
+        "summary_zh": "在准备阶段，炉灶被点燃，平底锅被放上火。储物柜中取出食材后，包装食物被拆开并装入盘中，剩余部分则被重新收回橱柜。",
+        "summary_en": "During the preparation phase, the stove is ignited and a pan is set over the flame. Ingredients are retrieved from storage, unpackaged, and transferred onto a plate, while the remaining items are returned to the cupboard.",
+        "caption_zh": "在准备阶段，点火器发出咔哒声，燃气灶被点燃。随后一个平底锅被放到灶上，厨房中伴有脚步声和准备活动的杂音。接着，从橱柜中取出多个装有食物的塑料袋，放置在操作台上。之后从柜子中拿出一个盘子，再将部分袋装食物倒入盘中。最后，将剩下的塑料袋食物重新放回柜子。",
+        "caption_en": "During the preparation phase, a clicking sound from the igniter is followed by the ignition of the gas stove. A pan is then placed on the burner, accompanied by footsteps and general kitchen preparation noise. Several plastic bags containing food are taken from the cupboard and set on the counter. A plate is retrieved from storage, and part of the packaged food is poured into it. Finally, the remaining food packages are returned to the cupboard."
+    },
+    "P35_104_2": {
+        "video_id": "P35_104",
+        "act_class": "Cleanup",
+        "act_class_id": 2,
+        "start_time": 503.3,
+        "end_time": 998.6,
+        "sub_seq": [
+            "WashScrub",
+            "WipeTidy",
+            "WashScrub"
+        ],
+        "summary_zh": "在清理阶段，进行了一段持续而彻底的碗碟与锅具清洗。",
+        "summary_en": "During the cleanup phase, a prolonged and thorough cleaning of dishes and cookware takes place.",
+        "caption_zh": "在清理阶段，展开了一段非常持久的清洗过程。海绵或刷子擦洗的声音反复出现，伴随着持续不断的水流声。金属与陶瓷物品在水槽中移动时发出清脆的碰撞声，显示出碗碟与锅具正被反复清洗和整理，整个洗涤过程连续而有序地进行着。",
+        "caption_en": "During the cleanup phase, a prolonged sequence of washing unfolds. The repeated sound of scrubbing with a sponge or brush, combined with steady rinsing, fills the space. Loud clinks and bumps from metal and ceramic items being handled in the sink suggest cookware and tableware are being thoroughly cleaned and organized, as the washing continues without interruption."
+    },
+    "P35_104_3": {
+        "video_id": "P35_104",
+        "act_class": "Cook",
+        "act_class_id": 1,
+        "start_time": 1022.3,
+        "end_time": 1079.3,
+        "sub_seq": [
+            "WipeTidy",
+            "MixKnead",
+            "SeasonFood"
+        ],
+        "summary_zh": "在烹饪阶段，台面被擦拭干净后，锅中食材被搅拌，并加入调味料。",
+        "summary_en": "During the cooking phase, the countertop is wiped clean, ingredients in the pan are stirred, and seasonings are added.",
+        "caption_zh": "在烹饪阶段，可以听到擦干手的动作与厨房中的脚步声。随后打开抽屉，使用布或毛巾擦拭台面。接着往锅中倒入调味料并进行搅拌。稍作停顿后，再次向锅中加入其他食材，继续进行烹饪操作。",
+        "caption_en": "During the cooking phase, hands are dried as footsteps move through the kitchen. A drawer is opened, and the countertop is wiped down with a cloth or towel. Then, seasonings are poured into the pan and stirred thoroughly. After a short pause, more ingredients are added into the pan, marking the continuation of the cooking process."
+    },
+    "P35_104_4": {
+        "video_id": "P35_104",
+        "act_class": "Cleanup",
+        "act_class_id": 2,
+        "start_time": 1089.3,
+        "end_time": 1570.2,
+        "sub_seq": [
+            "WashScrub",
+            "WipeTidy",
+            "WashScrub"
+        ],
+        "summary_zh": "在清理阶段，塑料容器和台面被擦拭干净，杯具和餐具被依次归位。随后开始新一轮洗碗过程，对多种器皿进行了反复的擦洗和冲洗。",
+        "summary_en": "During the cleanup phase, surfaces and containers are wiped clean, and tableware is returned to storage. This is followed by another round of dishwashing, where various items are scrubbed and rinsed thoroughly.",
+        "caption_zh": "在清理阶段，一个塑料盒子被仔细擦拭干净。随后传来橱柜门打开与关闭的声音，多个杯子被放回原位，餐具被有序地归整。接着，另一次清洁过程开始，水龙头流水声响起，大量碗碟被放入水槽发出碰撞声。之后是长时间的洗涤过程，持续的擦洗与冲洗声音显示出对各类碗碟和锅具的彻底清洁。",
+        "caption_en": "During the cleanup phase, a plastic container is carefully wiped down. Cupboard doors open and close as cups are put away and multiple utensils are sorted back into place. Then, another cleaning sequence begins: the sound of running water and dishes being placed into the sink signals the start. For a prolonged period, scrubbing and rinsing sounds dominate, indicating a thorough wash of various bowls, plates, and cookware."
+    },
+    "P35_104_5": {
+        "video_id": "P35_104",
+        "act_class": "Cook",
+        "act_class_id": 1,
+        "start_time": 1571.9,
+        "end_time": 1587.7,
+        "sub_seq": [
+            "MixKnead"
+        ],
+        "summary_zh": "在烹饪阶段，锅中的食材被搅拌。",
+        "summary_en": "During the cooking phase, the food in the pan is stirred.",
+        "caption_zh": "在烹饪阶段，可以听到锅中食材被餐具搅动的声音，节奏均匀，表明烹饪过程中正在进行充分的搅拌。",
+        "caption_en": "During the cooking phase, the sound of a utensil moving through food can be heard as the contents of the pan are stirred rhythmically, suggesting active mixing during cooking."
+    },
+    "P35_104_6": {
+        "video_id": "P35_104",
+        "act_class": "Cleanup",
+        "act_class_id": 2,
+        "start_time": 1588.1,
+        "end_time": 1790.3,
+        "sub_seq": [
+            "WashScrub"
+        ],
+        "summary_zh": "在清理阶段，开始了新一轮的碗碟清洗，包含对多种餐具和锅具的彻底擦洗与冲洗。",
+        "summary_en": "During the cleanup phase, another round of dishwashing begins, involving a thorough scrubbing and rinsing of various dishes and cookware.",
+        "caption_zh": "在清理阶段，水龙头打开的水流声标志着新一轮清洁工作的开始。大量碗碟被放入水槽，发出连续的碰撞声。随后是一段持续的擦洗与冲洗过程，海绵或刷子反复摩擦器皿的声音清晰可闻，伴随着盘子、碗具等餐厨用品的移动声。",
+        "caption_en": "During the cleanup phase, the sound of water running signals the start of another cleaning session. Dishes clatter as they are placed into the sink, followed by an extended sequence of scrubbing and rinsing. The consistent sound of sponge or brush against cookware, along with the movement of plates and bowls."
+    },
+    "P35_104_7": {
+        "video_id": "P35_104",
+        "act_class": "Cook",
+        "act_class_id": 1,
+        "start_time": 1796.2,
+        "end_time": 1823.3,
+        "sub_seq": [
+            "MixKnead"
+        ],
+        "summary_zh": "在烹饪阶段，锅中的食材被搅拌。",
+        "summary_en": "During the cooking phase, the food in the pan is stirred.",
+        "caption_zh": "在烹饪阶段，可以听到锅中食材被餐具搅动的声音，节奏均匀，表明烹饪过程中正在进行充分的搅拌。",
+        "caption_en": "During the cooking phase, the sound of a utensil moving through food can be heard as the contents of the pan are stirred rhythmically, suggesting active mixing during cooking."
+    },
+    "P35_104_8": {
+        "video_id": "P35_104",
+        "act_class": "Cleanup",
+        "act_class_id": 2,
+        "start_time": 1823.9,
+        "end_time": 2029.3,
+        "sub_seq": [
+            "HandleObject",
+            "WashScrub",
+            "WipeTidy",
+            "WashScrub"
+        ],
+        "summary_zh": "在清理阶段，取出餐具并进行冲洗，将锅中内容倒出并擦拭干净，物品归位，最后进行新一轮餐具清洗。",
+        "summary_en": "During the cleanup phase, utensils are retrieved and rinsed, a pot is drained and wiped clean, and cleaned items are returned to storage. The process concludes with another round of dishwashing.",
+        "caption_zh": "在清理阶段，餐具从柜子中取出并放入水槽。接着，将灶上的锅拿起并倾倒，将锅中积水倒入水槽。随后用抹布擦拭锅具，并将清洁后的物品放回橱柜中。最后打开水龙头，对餐具进行冲洗和擦洗，完成本轮清洁。",
+        "caption_en": "During the cleanup phase, utensils are taken from the cupboard and placed into the sink. A pot is lifted off the stovetop and tilted to drain water. A cloth is then used to wipe down the pot, and cleaned items are returned to their storage spaces. Finally, the faucet is turned on and more dishes are scrubbed and rinsed in the sink."
+    },
+    "P35_104_9": {
+        "video_id": "P35_104",
+        "act_class": "Prep",
+        "act_class_id": 0,
+        "start_time": 2029.3,
+        "end_time": 2440.6,
+        "sub_seq": [
+            "HandleObject",
+            "SeasonFood",
+            "MixKnead",
+            "OpenCloseStorage",
+            "PlateFood",
+            "WipeTidy",
+            "OpenCloseStorage",
+            "UnwrapPackage"
+        ],
+        "summary_zh": "在准备阶段，取出餐具和容器后，加入调料并搅拌锅中食材。随后将塑料盒放到台面，将锅中食物盛入其中。整理餐具后，又从冰箱中取出食材放在桌面，并使用保鲜膜等物品对其进行分装处理。",
+        "summary_en": "During the preparation phase, utensils and containers are retrieved from storage. Seasonings are added, and the food in the pan is stirred. After placing a plastic container on the counter, the cooked food is transferred into it. Items are sorted and tidied, additional ingredients are taken from the fridge, and the food is repackaged using plastic wrap and other containers.",
+        "caption_zh": "在准备阶段，首先从柜子中取出餐具。随后传来包装袋被撕开的声音，伴随着罐头瓶开启声和调料撒入锅中的细微声响。接着是锅中食物搅拌时发出的翻动声。之后从橱柜中拿出一个塑料盒放置在台面上，将锅中的食物倒入盒中完成装盘。整理完餐具后，冰箱门被打开，有食材被取出并放在桌面。最后再次打开橱柜，取出塑料包装物，对食物进行分装处理，期间能听到保鲜膜拉扯和裹紧的声音。",
+        "caption_en": "During the preparation phase, utensils are retrieved from the cupboard. The sound of packaging being opened is followed by a jar lid twisting and seasoning being sprinkled into the pan. Stirring sounds then emerge as the food is mixed. A plastic container is taken from storage and set on the counter. The contents of the pan are transferred into the container. Cupboard doors open and close as utensils are returned to their place. The refrigerator door opens with a gentle sound, and new food items are placed on the table. Finally, a cupboard is opened again, and the rustling of plastic wrap is heard as items are divided and repackaged."
+    },
+    "P35_104_10": {
+        "video_id": "P35_104",
+        "act_class": "Cleanup",
+        "act_class_id": 2,
+        "start_time": 2445.2,
+        "end_time": 2704.9,
+        "sub_seq": [
+            "WashScrub"
+        ],
+        "summary_zh": "在清理阶段，锅具与餐具在水槽中被清洗。",
+        "summary_en": "During the cleanup phase, cookware and dishes are washed in the sink.",
+        "caption_zh": "在清理阶段，水流声响起，锅具和餐具被放入水槽中。随即传来反复的擦洗声，清晰表明多种厨房器皿正在被清洗。",
+        "caption_en": "During the cleanup phase, the sound of running water begins as cookware and dishes are placed into the sink. Repeated scrubbing sounds follow, clearly indicating that various kitchen utensils are being cleaned."
+    },
+    "P35_104_11": {
+        "video_id": "P35_104",
+        "act_class": "Prep",
+        "act_class_id": 0,
+        "start_time": 2717.7,
+        "end_time": 3244.5,
+        "sub_seq": [
+            "HandleObject",
+            "UnwrapPackage",
+            "OpenCloseStorage",
+            "WashScrub",
+            "WipeTidy",
+            "OpenCloseStorage"
+        ],
+        "summary_zh": "在准备阶段，从冰箱取出食物并在台面处理，之后将食物用保鲜膜包裹好并放回冰箱。随后在水槽洗手，清理垃圾并将塑料盒整理后收回储藏空间。",
+        "summary_en": "During the preparation phase, food is retrieved from the refrigerator and unpacked on the counter. It is then wrapped in plastic and stored back in the fridge. Hands are washed at the sink, leftover waste is cleared into the trash, and plastic containers are tidied and returned to storage.",
+        "caption_zh": "在准备阶段，冰箱门被打开，取出的食物被放在台面上进行处理。伴随着轻微的塑料摩擦声，保鲜膜被展开，用于将食物逐一包裹。之后，将包好的食物放回冰箱，伴随门开启和关闭的声音。在水槽边可以听到水流声和洗手的动作。随后，收拾剩余的垃圾并投进垃圾桶，传来细碎的包装纸和塑料的声响。最后，将塑料盒收起并放入冰箱",
+        "caption_en": "During the preparation phase, the refrigerator door is opened, and food is taken out and placed on the counter for handling. Soft plastic rustling sounds are heard as cling film is unrolled and used to wrap the food one by one. The wrapped portions are then returned to the fridge, accompanied by the sounds of doors opening and closing. At the sink, the sound of running water signals handwashing. Leftover trash is gathered and thrown into the bin, with faint crinkling sounds from packaging materials. Finally, plastic containers are collected and placed back into the refrigerator."
+    },
+    "P35_104_12": {
+        "video_id": "P35_104",
+        "act_class": "Cleanup",
+        "act_class_id": 2,
+        "start_time": 3246.1,
+        "end_time": 3347.5,
+        "sub_seq": [
+            "ApplianceRunning"
+        ],
+        "summary_zh": "在清理阶段，物品被归回柜中，随后启动吸尘器完成地面清洁。",
+        "summary_en": "During the cleanup phase, items are returned to storage, and a vacuum cleaner is operated to finish cleaning the space.",
+        "caption_zh": "在清理阶段，物品被依次放回柜子，伴随着柜门开启与关闭的轻响声。紧接着传来吸尘器启动的嗡鸣声，持续响起，表明正在使用清洁电器对地面进行打扫。",
+        "caption_en": "During the cleanup phase, items are returned to the cupboard one by one, accompanied by the soft sounds of doors opening and closing. Shortly after, a vacuum cleaner starts with a steady humming noise, indicating that an appliance is being used to clean the floor."
+    },
+    "P09_103_0": {
+        "video_id": "P09_103",
+        "act_class": "Prep",
+        "act_class_id": 0,
+        "start_time": 0.0,
+        "end_time": 249.6,
+        "sub_seq": [
+            "HandleObject",
+            "UnwrapPackage",
+            "CutChop",
+            "WashScrub",
+            "MixKnead",
+            "CutChop",
+            "WashScrub",
+            "SeasonFood"
+        ],
+        "summary_zh": "在准备阶段，进入厨房并开始处理食材。打开包装后，开始长时间的切菜过程。切菜过程中穿插着食材的冲洗、混合与调味。",
+        "summary_en": "During the preparation phase, the kitchen is entered and ingredients are handled. After unwrapping the packaging, an extended period of chopping begins, interspersed with rinsing, mixing, and seasoning of the ingredients.",
+        "caption_zh": "在准备阶段，进入厨房。可以听到有人拿起一个塑料袋并用力摇晃，紧接着是撕开包装的声音。随后在持续一段时间在砧板上切菜。水龙头被打开，短暂的水流声是用于洗手。之后传来调料瓶轻微碰撞声、撒调料的细响，以及搅拌食材的声音。接着又继续切菜。又一次短暂的水流声响起，最后是调味料撒落的声音。",
+        "caption_en": "During the preparation phase, someone enters the kitchen. A plastic bag is picked up and shaken forcefully, followed by the sound of it being torn open. Then comes an extended period of chopping on a cutting board. A faucet is turned on briefly, likely for handwashing. This is followed by the light clinking of a seasoning bottle, the soft sound of seasoning being added, and mixing of ingredients. Chopping resumes shortly after. Another brief flow of water is heard, and finally, the sound of seasoning being sprinkled marks the end of the sequence."
+    },
+    "P09_103_1": {
+        "video_id": "P09_103",
+        "act_class": "Cook",
+        "act_class_id": 1,
+        "start_time": 251.3,
+        "end_time": 719.7,
+        "sub_seq": [
+            "PanCook",
+            "UnwrapPackage",
+            "PanCook",
+            "MixKnead",
+            "UnwrapPackage",
+            "PanCook"
+        ],
+        "summary_zh": "在烹饪阶段，煎炒食材，多次加入液体。期间有包装袋被撕开，食材被加入锅中并混合炖煮。之后继续炒制。",
+        "summary_en": "During the cooking phase, ingredients are pan-fried with multiple additions of liquid. Packaged items are unwrapped and added into the pan, where they are mixed and simmered. Cooking continues with further stir-frying.",
+        "caption_zh": "在烹饪阶段，将食材放入热锅。随后是一段持续的翻炒声，锅铲不断翻动锅中食材。加入了酱汁或水，锅中随即发出混合的煎炒与炖煮声。此时，有多个包装袋被撕开的声音，锅中仍持续有炖煮声，偶尔夹杂搅动的声音。接着再次翻炒声，之后又撕开包装袋，加入调料。最后，锅中再次传来持续翻炒声。",
+        "caption_en": "During the cooking phase, ingredients are placed into a hot pan. A prolonged period of stir-frying follows, with the sound of a spatula repeatedly flipping the food. Liquid such as sauce or water is added, leading to a combination of sizzling and simmering sounds. At the same time, multiple packaging bags are torn open, while the pan continues to bubble with occasional stirring. Stir-frying resumes, followed by the sound of another package being unwrapped and seasonings being added. Finally, a continuous sequence of stir-frying marks the end of the segment."
+    }
+}
