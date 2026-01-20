@@ -1,15 +1,10 @@
 
 # MultiAct Dataset
 
+<img src="https://github.com/PennyZhang9/MultiAct/blob/main/img/main.png">
 
 ## Dataset Details
 
-### 类别
-1. Activity
-映射表格
-2. Subactivity
-映射表格
-3. Event
 
 
 ## Citing
