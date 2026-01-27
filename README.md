@@ -69,7 +69,7 @@ The event annotations in MultiAct correspond to a subset of the original EPIC-SO
 MultiAct is constructed from a curated subset of EPIC-SOUNDS recordings, reorganized into long-form audio segments.
 While MultiAct provides new hierarchical annotations and textual descriptions, the underlying event labels and audio data remain subject to the original EPIC-KITCHENS license.
 
-## Baselines & Models
+## 3. [Baselines & Models](code/README.md)
 
 We provide baseline implementations for all tasks, including:
 
