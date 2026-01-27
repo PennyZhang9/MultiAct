@@ -12,7 +12,7 @@ Before training or inference, you must extract the audio and convert it to the r
 
 * **Audio Extraction:** Run `slowfast/audio_extraction/extract_audio.py` to extract raw audio from video sources.
 * **HDF5 Conversion:** Run `slowfast/audio_extraction/wav_to_hdf5.py` to package extracted `.wav` files into `.hdf5` files for efficient loading.
-* **Pre-trained Model:**  `slowfast/checkpoint/SLOWFAST_EPIC_SOUNDS.pyth`.
+
 
 
 #### 1.2  Fine-tuning SlowFast
