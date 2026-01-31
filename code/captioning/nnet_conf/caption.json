@@ -1,0 +1,14 @@
+{
+  "seed": 123456,
+  "learning_rate": 2e-5,
+  "train_batch_size": 8,
+  "test_batch_size": 1,
+  "num_workers": 8,
+  "num_epochs": 200,
+
+
+  "gpu_num": 1,
+  "train_gpu_id": "0",
+  "test_gpu_id": "0",
+  "train_type": "cuda"
+}

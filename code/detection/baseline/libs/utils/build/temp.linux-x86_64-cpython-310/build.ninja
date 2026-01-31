@@ -1,0 +1,24 @@
+ninja_required_version = 1.3
+cxx = /opt/conda/bin/x86_64-conda-linux-gnu-c++
+
+cflags = -Wno-unused-result -Wsign-compare -DNDEBUG -fwrapv -O2 -Wall -fPIC -O2 -isystem /opt/conda/include -fPIC -O2 -isystem /opt/conda/include -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /opt/conda/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /opt/conda/include -fPIC -I/opt/conda/lib/python3.10/site-packages/torch/include -I/opt/conda/lib/python3.10/site-packages/torch/include/torch/csrc/api/include -I/opt/conda/lib/python3.10/site-packages/torch/include/TH -I/opt/conda/lib/python3.10/site-packages/torch/include/THC -I/opt/conda/include/python3.10 -c
+post_cflags = -fopenmp -DTORCH_API_INCLUDE_EXTENSION_H '-DPYBIND11_COMPILER_TYPE="_gcc"' '-DPYBIND11_STDLIB="_libstdcpp"' '-DPYBIND11_BUILD_ABI="_cxxabi1011"' -DTORCH_EXTENSION_NAME=nms_1d_cpu -D_GLIBCXX_USE_CXX11_ABI=0 -std=c++17
+cuda_dlink_post_cflags = 
+ldflags = 
+
+rule compile
+  command = $cxx -MMD -MF $out.d $cflags -c $in -o $out $post_cflags
+  depfile = $out.d
+  deps = gcc
+
+
+
+
+
+build /mnt/fast/nobackup/scratch4weeks/pz00220/code/Long-Form-Audio-Understanding/sounds-detection/baseline/libs/utils/build/temp.linux-x86_64-cpython-310/./csrc/nms_cpu.o: compile /mnt/fast/nobackup/scratch4weeks/pz00220/code/Long-Form-Audio-Understanding/sounds-detection/baseline/libs/utils/csrc/nms_cpu.cpp
+
+
+
+
+
+
