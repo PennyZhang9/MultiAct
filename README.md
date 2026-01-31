@@ -91,13 +91,3 @@ Please ensure you comply with the original EPIC-KITCHENS license when using the 
 We thank collaborators and contributors from the EPIC-KITCHENS and EPIC-SOUNDS projects.  
 
 ## Citation
-
-If you use MultiAct in your research, kindly reference:
-
-```bibtex
-@inproceedings{zhang2025multiact,
-  title={Hierarchical Activity Recognition and Captioning from Long-Form Audio},
-  author={Zhang, Peng and Luo, Qingyu and Jackson, Philip J.B. and Wang, Wenwu},
-  booktitle={ICASSP},
-  year={2026}
-}
