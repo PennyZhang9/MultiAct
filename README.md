@@ -81,8 +81,9 @@ We provide baseline implementations for all tasks, including:
 
 ## License
 
-- **Annotations**: Creative Commons Attribution (CC BY)
-- **Audio**: Subject to EPIC-KITCHENS Research License (non-commercial)
+* **Code**: Licensed under the [MIT License](LICENSE).
+* **Annotations**: Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+* **Audio**: Subject to the [EPIC-KITCHENS Research License (Non-Commercial)](https://epic-kitchens.github.io/2022#license).
 
 Please ensure you comply with the original EPIC-KITCHENS license when using the audio data.
 
@@ -91,3 +92,5 @@ Please ensure you comply with the original EPIC-KITCHENS license when using the 
 We thank collaborators and contributors from the EPIC-KITCHENS and EPIC-SOUNDS projects.  
 
 ## Citation
+
+Paper is available at [ArXiv](https://arxiv.org/abs/2602.06765)
